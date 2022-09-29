@@ -1,12 +1,6 @@
 {
   "thoughs": [
     {
-      "id": 1,
-      "content": "Pensamento 1",
-      "authorship": "Vê",
-      "model": "modelo1"
-    },
-    {
       "id": 2,
       "content": "I Love Coca-Cola",
       "authorship": "Vê",
@@ -41,12 +35,6 @@
       "content": "Minha propriedade é decorada com @Input",
       "authorship": "Componente filho",
       "model": "modelo3"
-    },
-    {
-      "content": "tese",
-      "authorship": "mim",
-      "model": "modelo2",
-      "id": 8
     },
     {
       "content": "outro pensamento",
