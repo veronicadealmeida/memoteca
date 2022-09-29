@@ -20,4 +20,7 @@ export class CreateThoughtComponent implements OnInit {
   createThought() {
     alert('criar');
   }
+  cancelar() {
+    alert('cancelar');
+  }
 }
