@@ -22,6 +22,15 @@ export class ListThoughtComponent implements OnInit {
       authorship: 'Componente filho',
       model: 'modelo3',
     },
+    {
+      content: `Se hoje é o dia das crianças...
+                Ontem eu disse: o dia da criança é o dia da mãe, dos pais, das professoras,
+                mas também é o dia dos animais, sempre que você olha uma criança,
+                há sempre uma figura oculta, que é um cachorro atrás.
+                O que é algo muito importante!`,
+      authorship: 'ngClass - Dilma',
+      model: 'modelo2',
+    },
   ];
   constructor() {}
 
