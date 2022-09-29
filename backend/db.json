@@ -41,6 +41,18 @@
       "content": "Minha propriedade é decorada com @Input",
       "authorship": "Componente filho",
       "model": "modelo3"
+    },
+    {
+      "content": "tese",
+      "authorship": "mim",
+      "model": "modelo2",
+      "id": 8
+    },
+    {
+      "content": "outro pensamento",
+      "authorship": "eu tbm",
+      "model": "modelo3",
+      "id": 9
     }
   ]
 }
