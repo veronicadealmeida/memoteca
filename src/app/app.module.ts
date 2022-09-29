@@ -6,11 +6,11 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
-import { CreateThoughtComponent } from './components/thought/create-thought/create-thought.component';
-import { UpdateThoughtComponent } from './components/thought/update-thought/update-thought.component';
-import { DeleteThoughtComponent } from './components/thought/delete-thought/delete-thought.component';
-import { ListThoughtComponent } from './components/thought/list-thought/list-thought.component';
-import { ThoughtComponent } from './components/thought/thought/thought.component';
+import { CreateThoughtComponent } from './components/thoughts/create-thought/create-thought.component';
+import { UpdateThoughtComponent } from './components/thoughts/update-thought/update-thought.component';
+import { DeleteThoughtComponent } from './components/thoughts/delete-thought/delete-thought.component';
+import { ListThoughtComponent } from './components/thoughts/list-thought/list-thought.component';
+import { ThoughtComponent } from './components/thoughts/thought/thought.component';
 
 @NgModule({
   declarations: [
