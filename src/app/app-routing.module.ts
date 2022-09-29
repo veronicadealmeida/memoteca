@@ -2,7 +2,9 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 import { CreateThoughtComponent } from './components/thoughts/create-thought/create-thought.component';
+import { DeleteThoughtComponent } from './components/thoughts/delete-thought/delete-thought.component';
 import { ListThoughtComponent } from './components/thoughts/list-thought/list-thought.component';
+import { UpdateThoughtComponent } from './components/thoughts/update-thought/update-thought.component';
 
 const routes: Routes = [
   {
@@ -17,6 +19,14 @@ const routes: Routes = [
   {
     path: 'listThought',
     component: ListThoughtComponent,
+  },
+  {
+    path: 'toughts/deleteThought/:id',
+    component: DeleteThoughtComponent,
+  },
+  {
+    path: 'toughts/updateThought/:id',
+    component: UpdateThoughtComponent,
   },
 ];
 
