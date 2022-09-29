@@ -8,9 +8,9 @@
     },
     {
       "id": 3,
-      "content": "Passo intormações para o componente filho",
-      "authorship": "Componente pai",
-      "model": "modelo2"
+      "content": "Passo intormações para o componente filho!!!",
+      "authorship": "Componente pai!",
+      "model": "modelo3"
     },
     {
       "id": 4,
